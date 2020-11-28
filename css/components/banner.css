@@ -1,0 +1,29 @@
+.banner {
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+  height: 80px;
+  margin: 0;
+  padding: 200px 0;
+  align-items: center;
+  color: white;
+}
+
+.title {
+  margin: 0;
+  width: 900px;
+  text-align: left;
+}
+
+.btn-title {
+  display: inline-block;
+  padding: 15px;
+  color: white;
+  background-color: #D3A088;
+  border-radius: 3px 20%;
+  border: double 4px;
+}
+
+.btn-title:hover {
+  background-color: #78825B;
+}

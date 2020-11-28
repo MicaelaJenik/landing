@@ -1,0 +1,12 @@
+.footer {
+  background-color: #78825B;
+  height: 200px;
+  text-align: center;
+  padding: 20px;
+  margin-top: 150px
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+}
